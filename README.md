@@ -3,12 +3,15 @@
 ## Follow me
 
 [![Twitter: BeatrizGivisiez](https://img.shields.io/twitter/follow/BeatrizGivisiez?style=social)](https://twitter.com/BeatrizGivisiez)
+
 [![Linkedin: BeatrizGivisiez](https://img.shields.io/badge/-BeatrizGivisiez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-givisiez/)](https://www.linkedin.com/in/beatriz-givisiez/)
+
 [![GitHub BeatrizGivisiez](https://img.shields.io/github/followers/BeatrizGivisiez?label=follow&style=social)](https://github.com/BeatrizGivisiez)
 
 ## GitHub Stats and Most Used Languages
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BeatrizGivisiez&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGivisiez&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/BeatrizGivisiez/github-readme-stats)
 
 ## Tech Skills
