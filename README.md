@@ -6,7 +6,7 @@
 
 [![Linkedin: BeatrizGivisiez](https://img.shields.io/badge/-BeatrizGivisiez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/BeatrizGivisiez/)](https://www.linkedin.com/in/BeatrizGivisiez/)
 
-[![GitHub BeatrizGivisiez](https://img.shields.io/github/followers/BeatrizGivisiez?label=follow&style=social)](https://github.com/BeatrizGivisiez)
+[![GitHub BeatrizGivisiez](https://img.shields.io/github/followers/beatriz-givisiez?label=follow&style=social)](https://github.com/BeatrizGivisiez)
 
 ## GitHub Stats and Most Used Languages
 
