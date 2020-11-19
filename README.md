@@ -1,4 +1,4 @@
-### Que bom te vê aqui, me chamo Beatriz e vou te contar um pouquinho sobre mim... 👋
+### Que bom te vê aqui, me chamo Beatriz 👋
 
 Sou desenvolvedora Front-End, atualmente estou no final do meu estágio e busco uma oportunidade Jr. <br>
 Minhas habilidades com a tecnologia começaram em 2012 quando iniciei a faculdade de Sistema de Informação, entrei sem base e passei por dificuldades com algoritmo mas tive vontade de crescer sem medo de ousar e no meu segundo ano da faculdade já estava trabalhando e atuando com desenvolvimento web em uma agência da minha cidade natal interior do RJ. Também fui monitora de tecnologia web e algoritmo, olha que ironia não é mesmo?<br>
