@@ -1,4 +1,4 @@
-### Que bom te vê aqui, me chamo Beatriz 👋
+### Prazer, me chamo Beatriz 👋
 
 Sou desenvolvedora Front-End, atualmente estou no final do meu estágio e busco uma oportunidade Jr. <br><br>
 
