@@ -1,10 +1,11 @@
 ### Prazer, me chamo Beatriz 👋
 
-Sou desenvolvedora Front-End, atualmente estou no final do meu estágio e busco uma oportunidade Jr. <br><br>
+Sou desenvolvedora Front-End, atuo desde 2013, Atualmente trabalho na criação de front utilizando Angular JS.
 
-## Sobre mim
+## Interesse
 
-Trabalho com as seguintes tecnologias: JavaScript, Angular JS. Estou estudando NodeJS e React para desenvolver futuras aplicações Back-End.
+Busco oportunidade Jr na área de front, mas também tenho interesse em me aprofundar em aplicações Back-End com NodeJS. <br>
+Venho estudando React, React Native e algumas tecnologias ágeis como Scrum e Kanban. Procuro contribuir com a comunidade e me tornar fullstack.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
 
