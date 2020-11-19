@@ -2,7 +2,7 @@
 
 <h1 align="center">Prazer, me chamo Beatriz 👋</h1> 
 
-<p align="center">Iniciei na tecnologia em 2013, atualmente atuo com Desenvolvimento Front-End utilizando Angular JS.</p>
+<p align="center"><strong>Iniciei na tecnologia em 2013, atualmente atuo com Desenvolvimento Front-End utilizando Angular JS.</strong></p>
 
 ## Interesses
 
