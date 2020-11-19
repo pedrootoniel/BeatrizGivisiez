@@ -4,6 +4,8 @@ Sou desenvolvedora Front-End, atualmente estou no final do meu estágio e busco 
 
 ## Sobre mim
 
+Trabalho com as seguintes tecnologias: JavaScript, Angular JS. Estou estudando NodeJS e React para desenvolver futuras aplicações Back-End.
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
 
 ## Minhas habilidades
