@@ -2,11 +2,11 @@
 
 <h1 align="center">Prazer, me chamo Beatriz 👋</h1> 
 
-<p align="center"><strong>Iniciei na tecnologia em 2013, atualmente atuo com Desenvolvimento Front-End utilizando Angular JS.</strong></p>
+<p align="center"><strong>Iniciei na tecnologia em 2013, atuo com Desenvolvimento Front-End utilizando Angular JS.</strong></p>
 
 ## Interesses
 
-Busco oportunidade Jr no setor de Front-End onde meus conhecimentos se baseiam, tenho interesse de me especializar em aplicações Back-End com NodeJS, para me tornar Fullstack. Estudo React, React Native e tecnologias ágeis como Scrum e Kanban. Aqui dividirei com vocês projetos bem legais. Busco contribuir com os meus conhecimentos a aqueles que adoram aprender e ensinar que valorizam o trabalho do próximo, independente da distância, que reconhecem a importância dos principios ágeis e da melhoria continua. Os que sabem inovar são coletivo, ideias só se multiplicam com colaboração e dedicação!
+Busco oportunidade Jr em Front-End onde meus conhecimentos se baseiam, tenho interesse de me especializar em aplicações Back-End com NodeJS. Estudo React, React Native e tecnologias ágeis como Scrum e Kanban. Aqui dividirei com vocês projetos bem legais. Busco contribuir com os meus conhecimentos a aqueles que adoram aprender e ensinar que valorizam o trabalho do próximo, independente da distância, que reconhecem a importância dos principios ágeis e da melhoria continua. Os que sabem inovar são coletivo, ideias só se multiplicam com colaboração e dedicação!
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
 
