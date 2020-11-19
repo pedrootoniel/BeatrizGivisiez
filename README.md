@@ -4,7 +4,7 @@ Iniciei na tecnologia em 2013, atualmente sou desenvolvedora e trabalho na cria�
 
 ## Interesse
 
-Busco oportunidade Jr de Front-End, mas também tenho interesse também em me especializar em aplicações Back-End com NodeJS. <br>
+Busco oportunidade Jr no setor de Front-End onde tenho mais afinidades, mas também tenho interesse também em me especializar em aplicações Back-End com NodeJS. <br>
 Venho estudando React, React Native e algumas tecnologias ágeis como Scrum e Kanban. Procuro contribuir com a comunidade e me tornar fullstack.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
