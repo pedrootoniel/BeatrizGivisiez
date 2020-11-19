@@ -1,6 +1,6 @@
 ### Prazer, me chamo Beatriz 👋
 
-Iniciei na tecnologia em 2013, atualmente sou desenvolvedora e trabalho na criação de front utilizando Angular JS.
+Iniciei na tecnologia em 2013, atualmente tenho experiência com Desenvolvimento Front-End utilizando Angular JS.
 
 ## Interesse
 
