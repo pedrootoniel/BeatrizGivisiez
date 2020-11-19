@@ -31,11 +31,11 @@ Busco oportunidade Jr no setor de Front-End onde meus conhecimentos se baseiam, 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGivisiez&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/BeatrizGivisiez/github-readme-stats)
 
 ## Contato
-
+<p align="center">
 E-mai: beatriz.givisiez@hotmail.com
 
 [![Twitter: BeatrizGivisiez](https://img.shields.io/twitter/follow/BeatrizGivisiez?style=social)](https://twitter.com/BeatrizGivisiez) 
 
 [![Linkedin: BeatrizGivisiez](https://img.shields.io/badge/-BeatrizGivisiez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-givisiez/)](https://www.linkedin.com/in/beatriz-givisiez/) 
 
-[![GitHub BeatrizGivisiez](https://img.shields.io/github/followers/BeatrizGivisiez?label=follow&style=social)](https://github.com/BeatrizGivisiez)
+[![GitHub BeatrizGivisiez](https://img.shields.io/github/followers/BeatrizGivisiez?label=follow&style=social)](https://github.com/BeatrizGivisiez)</p>
