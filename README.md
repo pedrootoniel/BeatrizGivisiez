@@ -8,7 +8,7 @@ Busco oportunidade Jr no setor de Front-End onde meu conhecimento se baseiam, te
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
 
-## Minhas habilidades
+## Habilidades
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -23,12 +23,14 @@ Busco oportunidade Jr no setor de Front-End onde meu conhecimento se baseiam, te
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## Estatísticas do GitHub
+## Estatísticas
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BeatrizGivisiez&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGivisiez&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/BeatrizGivisiez/github-readme-stats)
 
-## Siga-Me!
+## Contato
+
+[![E-mai: beatriz.givisiez@hotmail.com]
 
 [![Twitter: BeatrizGivisiez](https://img.shields.io/twitter/follow/BeatrizGivisiez?style=social)](https://twitter.com/BeatrizGivisiez) 
 
