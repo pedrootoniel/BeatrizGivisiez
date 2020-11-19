@@ -1,6 +1,6 @@
 <img width="auto" src="https://res.cloudinary.com/stefanosaffran/image/upload/v1596557625/ru5sj2goboqrtxl5d8m1.png"><br>
 
-<h1 align="center">### Prazer, me chamo Beatriz </h1> 👋
+<h1 align="center">Prazer, me chamo Beatriz 👋</h1> 
 
 Iniciei na tecnologia em 2013, atualmente atuo com Desenvolvimento Front-End utilizando Angular JS.
 
