@@ -30,7 +30,7 @@ Busco oportunidade Jr no setor de Front-End onde meu conhecimento se baseiam, te
 
 ## Contato
 
-[![E-mai: beatriz.givisiez@hotmail.com]
+E-mai: beatriz.givisiez@hotmail.com
 
 [![Twitter: BeatrizGivisiez](https://img.shields.io/twitter/follow/BeatrizGivisiez?style=social)](https://twitter.com/BeatrizGivisiez) 
 
