@@ -4,7 +4,7 @@ Iniciei na tecnologia em 2013, atualmente atuo com Desenvolvimento Front-End uti
 
 ## Interesses
 
-Busco oportunidade Jr no setor de Front-End onde meu conhecimento se baseiam, tenho interesse de me especializar em aplicações Back-End com NodeJS, para me tornar fullstack. Estudo React, React Native e tecnologias ágeis como Scrum e Kanban. Aqui dividirei com vocês projetos bem legais. Busco contribuir com os meus conhecimentos a aqueles que adoram aprender e ensinar que valorizam o trabalho do próximo, independente da distância, que reconhecem a importância dos principios ágeis e da melhoria continua. Os que sabem inovar é são coletivo, ideias só se multiplicam com colaboração e dedicação!
+Busco oportunidade Jr no setor de Front-End onde meus conhecimentos se baseiam, tenho interesse de me especializar em aplicações Back-End com NodeJS, para me tornar Fullstack. Estudo React, React Native e tecnologias ágeis como Scrum e Kanban. Aqui dividirei com vocês projetos bem legais. Busco contribuir com os meus conhecimentos a aqueles que adoram aprender e ensinar que valorizam o trabalho do próximo, independente da distância, que reconhecem a importância dos principios ágeis e da melhoria continua. Os que sabem inovar é são coletivo, ideias só se multiplicam com colaboração e dedicação!
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BeatrizGivisiez.BeatrizGivisiez)
 
