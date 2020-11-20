@@ -40,4 +40,4 @@
 
 [![GitHub BeatrizGivisiez](https://img.shields.io/github/followers/BeatrizGivisiez?label=follow&style=social)](https://github.com/BeatrizGivisiez)
 
-<p align="center">Na vida profissional, determinação vale mais do que talento. Você já tentou para alguém determinado? Persistência é a palavra-chave.</p>
+<p align="center">Na vida profissional, determinação vale mais do que talento. Você já tentou parar alguém determinado? Persistência é a palavra-chave.</p>
